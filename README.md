@@ -62,6 +62,7 @@ STEP 5
 5.After that run the program and give the clock pulse value as 50 in timing diagram and run the program.
 
 ### PROGRAM 
+```
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Meetha Prabhu
@@ -93,7 +94,7 @@ begin
 end
 endmodule
 */
-
+```
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 UPCOUNTER:
 
